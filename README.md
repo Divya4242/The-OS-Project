@@ -2,7 +2,7 @@
 
 This project contains a number of operating system programs, such as page replacement algorithms, scheduling algorithms, and memory partitioning algorithms.
 
-https://divyaprograms.azurewebsites.net/
+https://osprograms.devopswithdivya.me/
 
 ## About OS Programs
 1.	Page Replacement Algorithm :- The area of replacement policy is probably the most studied of any area of memory management. The replacement policy determines which page currently in memory is to be replaced. All of the policies have as their objective that the page to be removed should be the page least likely to be referenced in the near future. FIFO, LRU are different page replacement algorithms.
